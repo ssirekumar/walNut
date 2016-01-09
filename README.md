@@ -12,9 +12,5 @@ This frame work mainly using reporting as extentreports(https://github.com/ansho
 
 
 
-Software License Agreement (BSD License)
 
-Copyright 2015 Ssire kumar
-
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
