@@ -3,6 +3,10 @@
 Its Cross browser application testing automation framework which will execute scenarios from CSV file. 
 Execution report with extentreports.
 
+
+
+Note: "Soon will update the code"
+
 This frame work mainly using reporting as extentreports(https://github.com/anshooarora/extentreports)
 
 
